@@ -1,2 +1,6 @@
-# Email_Sender_With_Python
-Python script for automatic email sending with attachment using Gmail SMTP
+# python-email-sender-app
+
+Choose your language:
+
+- [English](README_en.md)
+- [فارسی](README_fa.md)
